@@ -1,0 +1,6 @@
+[submodule "trello-web"]
+	path = trello-web
+	url = https://github.com/khoa300504/trello-web
+[submodule "trello-api"]
+	path = trello-api
+	url = https://github.com/khoa300504/trello-api
